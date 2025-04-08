@@ -49,6 +49,20 @@ The `Jenkinsfile` defines the CI/CD pipeline. It includes multiple stages: `Chec
 
 The final Docker image is tagged and pushed to **DockerHub** repository: `ayusht45cyber/myjenkinscicd:latest`. You can use this image to deploy your Node.js app anywhere Docker is supported.
 
+<br>
+
+💻 Screenshots
+------------------------
+
+# The CICD Pipeline
+<img src="/Screenshots/jenkins.png">
+
+# The CICD Pipeline
+<img src="/Screenshots/cicd.png">
+
+# The Node App
+<img src="/Screenshots/app.png">
+
 🧑‍💻 Author
 ------------
 
